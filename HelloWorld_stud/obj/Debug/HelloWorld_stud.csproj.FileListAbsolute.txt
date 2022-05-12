@@ -1,0 +1,6 @@
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.pdb
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.pdb
